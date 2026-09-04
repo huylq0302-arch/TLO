@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Momentum",
   description: "Your personal dashboard to start every day with focus.",
-  themeColor: "#1e1b4b",
+  
 };
 
 export default function RootLayout({
